@@ -1,3 +1,3 @@
-# mvchn.github.io
+# MVCHN
 
-Simple blog
+Архітектура та дизайн програмного забезпечення
