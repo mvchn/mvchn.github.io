@@ -1,3 +1,5 @@
 # MVCHN
 
-Архітектура та дизайн програмного забезпечення
+Software architecture and design
+
+[Read](http://mvchn.github.io)
