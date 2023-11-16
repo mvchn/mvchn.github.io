@@ -34,3 +34,12 @@ h2 {
     line-height: 36px;
     display: block;
 }
+
+.link-email {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png") no-repeat;
+    background-size: 32px 24px;
+    padding-left: 36px;
+    line-height: 36px;
+    display: block;
+
+}
