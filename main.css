@@ -26,3 +26,11 @@ h2 {
     color: darkgrey;
     font-weight: lighter;
 }
+
+.link-github {
+    background: url("https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png") no-repeat;
+    background-size: 32px 32px;
+    padding-left: 36px;
+    line-height: 36px;
+    display: block;
+}
