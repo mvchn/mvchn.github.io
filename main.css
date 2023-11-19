@@ -56,6 +56,11 @@ h2 {
     transition: all 0.2s ease-in-out;
 }
 
+.button:hover {
+    background-color: #000;
+    color: #fff8c5;
+}
+
 .strike {
     text-decoration: line-through;
 }
