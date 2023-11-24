@@ -6,6 +6,7 @@ const close = document.getElementsByClassName("close")[0];
 
 button.onclick = function() {
     modal.style.display = "block";
+    gtag('event', 'modal_open', {});
 }
 
 close.onclick = function() {
