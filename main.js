@@ -6,7 +6,14 @@ const close = document.getElementsByClassName("close")[0];
 
 button.onclick = function() {
     modal.style.display = "block";
-    gtag('event', 'modal_open', {});
+    const event = {
+        'event_category': 'engagement',
+        'event_label': 'Schedule a meeting'
+    }
+
+    gtag('event', 'modal_open', event);
+
+    console.log('Modal Opened', event);
 }
 
 close.onclick = function() {
